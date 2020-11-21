@@ -1,4 +1,4 @@
-# pig-game
+# Pig Game
 
 How to play:
 
